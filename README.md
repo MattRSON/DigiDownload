@@ -1,2 +1,5 @@
 # DigiDownload
-Downloads information from digikey and uses it for part selection
+Downloads information from Digikey and uses it for part selection
+
+Current goal 
+- inductor core selection
