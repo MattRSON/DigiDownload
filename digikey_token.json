@@ -1,0 +1,14 @@
+{
+    "client_info": [
+        {
+            "client_id": "7hfBMjX22DohVDr70pzbYcUAJwwURwjL",
+            "client_secret": "AVziXUJJToyuCd1D"
+        }
+    ],
+    "token_info": [
+        {
+            "Authorization": "PGh8eVJoAnZv5tC6tU9XtdBYCaMI",
+            "token_type": "Bearer"
+        }
+    ]
+}
