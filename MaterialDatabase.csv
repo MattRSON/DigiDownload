@@ -1,0 +1,22 @@
+Ferrite Materials, Material Type, Initial Permeability, Flux Density, Field Strength, Residual Flux Density, Coercive Force, Loss Factor, @ Frequency, Temperature Coefficient of Initial Permeability, Curie Temperature, Resistivity, Recommended Frequency Range
+units, null, null, gauss, oersted, gauss, oersted, 10-6, MHz, %/C, C, ohm-cm, MHz
+15, NiZn, 1500, 2700, 5, 1800, .2, 15, .1, 1.1, >105, 100000000, 10-300
+31, MnZn, 1500, 3600, 
+43, NiZn, 800, 3500, 
+44, NiZn, 500, 3000,
+46, MgZn, 500, 2550, 
+51, NiZn, 350, 3500,
+52, NiZn, 250, 4200, 
+61, NiZn, 125, 2500, 
+67, NiZn, 40, 
+68, NiZn, 16, 
+73, MnZn, 2500, 
+75, MnZn, 5000, 
+76, MnZn, 10000, 
+77, MnZn, 2000, 
+78, MnZn, 2300, 
+79, MnZn, 1400, 
+80, MnZn, 600, 
+95, MnZn, 3000, 
+97, MnZn, 2000, 
+98, MnZn, 2400, 
